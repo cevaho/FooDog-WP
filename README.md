@@ -1,5 +1,8 @@
 # FooDog-WP
-Wordpress template with php and wordpress function - project management - SEO
+Wordpress template with php and wordpress function - project management
+
+## Author
+We were 3 at the beginning but other people prefered doing other projects, that's why rules about project management and Github flow weren't followed.
 
 ## Project
 
@@ -12,7 +15,7 @@ Based on [Understrap](https://wordpress.org/themes/understrap/) empty wordpress 
 * learning how to show articles depending on bootstrap design, categories, search results with wordpress function
 * the functionalities work but the design still has to be done (the main structure is designed)
 
-* The template can be seen [here](http://wordpress.cevaho-creation.be/)
+* The live website can be seen [here](http://wordpress.cevaho-creation.be/)
 * The seo lightHouse test can be read [here](https://github.com/cevaho/FooDog-WP/blob/master/foodog-Lighthouse-Report.pdf)
 
  I practiced more:
@@ -23,8 +26,8 @@ Based on [Understrap](https://wordpress.org/themes/understrap/) empty wordpress 
 
 Templates created:
 
-* category.php (didn't exist and was created not to replace the archive template)
-* cinqgrid.php (to display 5 article with a complex grid system)
+* category.php (didn't exist and was created not to modify the archive template)
+* cinqgrid.php (to display 5 articles inside a complex grid system)
 * searchor.php (to show the searchbar in a custom modal pop-up)
 * featuredpost.php (to change de layout of the featurd articles in index.php)
 
@@ -36,10 +39,6 @@ Templates modified:
 * header.php
 * footer.php
 * function.php (to create a function that shows the most popular posts in the footer based on view count)
-
-
-## Author
-We were 3 at the beginning but other people prefered doing other projects, that's why rules about project management and Github flow weren't followed.
 
 
 ### Notes
